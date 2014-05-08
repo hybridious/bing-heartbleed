@@ -2,7 +2,7 @@
 
 
 help(){
-echo -e "\n\033[0;31m[*]\033[0m Bing HeatBleed Scanner"
+echo -e "\n\033[0;31m[*]\033[0m Bing HeartBleed Scanner"
 echo -e "\033[0;32m[+]\033[0m Author: MMxM | hc0der.blogspot.com\n"
 echo -e "\033[0;31m[*]\033[0m Options:\n"
 echo -e "\t-s <string to search>"
