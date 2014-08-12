@@ -10,7 +10,6 @@ echo -e "\t-t <timeout> [not required]"
 echo -e "\t-o <output file> [not required]\n"
 echo -e "\033[0;32m[+]\033[0m Example:\n"
 echo -e "\t\$ bash bing-hb.sh -s 'your search' -t 20 -o vuln.txt\n"
-!
 exit
 }
 
